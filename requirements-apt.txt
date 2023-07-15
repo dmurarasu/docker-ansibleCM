@@ -12,3 +12,4 @@ git
 jq
 vim
 sudo
+curl

@@ -9,3 +9,4 @@ collections:
   - name: netbox.netbox
   - name: community.general
   - name: junipernetworks.junos
+  - name: paloaltonetworks.panos
