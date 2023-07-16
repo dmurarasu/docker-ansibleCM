@@ -26,3 +26,6 @@ yamllint
 yq
 ntc-templates
 ttp
+pan-python
+pandevice
+pan-os-python
